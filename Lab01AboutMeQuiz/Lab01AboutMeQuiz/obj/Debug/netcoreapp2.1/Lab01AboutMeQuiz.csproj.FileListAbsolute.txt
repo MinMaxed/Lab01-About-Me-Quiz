@@ -9,3 +9,14 @@ C:\Users\Max\codefellows\401 ASP.NET C#\Lab01AboutMeQuiz\Lab01AboutMeQuiz\bin\De
 C:\Users\Max\codefellows\401 ASP.NET C#\Lab01AboutMeQuiz\Lab01AboutMeQuiz\bin\Debug\netcoreapp2.1\Lab01AboutMeQuiz.pdb
 C:\Users\Max\codefellows\401 ASP.NET C#\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.dll
 C:\Users\Max\codefellows\401 ASP.NET C#\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\bin\Debug\netcoreapp2.1\Lab01AboutMeQuiz.deps.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\bin\Debug\netcoreapp2.1\Lab01AboutMeQuiz.runtimeconfig.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\bin\Debug\netcoreapp2.1\Lab01AboutMeQuiz.runtimeconfig.dev.json
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\bin\Debug\netcoreapp2.1\Lab01AboutMeQuiz.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\bin\Debug\netcoreapp2.1\Lab01AboutMeQuiz.pdb
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.csprojAssemblyReference.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.AssemblyInfoInputs.cache
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.AssemblyInfo.cs
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.dll
+C:\Users\Max\codefellows\401 ASP.NET C#\Lab01-About-Me-Quiz\Lab01AboutMeQuiz\Lab01AboutMeQuiz\obj\Debug\netcoreapp2.1\Lab01AboutMeQuiz.pdb

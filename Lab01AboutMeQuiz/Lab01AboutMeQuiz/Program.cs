@@ -6,22 +6,46 @@ namespace Lab01AboutMeQuiz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //int score = 0;
-            Nachos();
-            //if (outcome == true)
-            //{
-            //    score++;
-            //}
-            Age();
-            //if (numAnswer == 28)
-            //{
-            //    score++;
-            //}
-            Games();
-            Tricky();
-            Beverage();
-            Console.WriteLine("Will display score later");
+            //set up
+            int score = 0;
+            Console.WriteLine("Greetings. Would you like to play a game?");
+            Console.WriteLine("Here's 5 questions to see how well you know me");
+            Console.WriteLine("Press any key to begin");
+            Console.ReadLine();
+
+            //executing questions & tallying score
+            bool nachosAnswer = Nachos();
+            if (nachosAnswer == true)
+            {
+                score++;
+            }
+
+            int ageAnswer = Age();
+            if (ageAnswer == 28)
+            {
+                score++;
+            }
+
+            bool gamesAnswer = Games();
+            if (gamesAnswer == true)
+            {
+                score++;
+            }
+
+            bool trickyAnswer = Tricky();
+            if (trickyAnswer == true)
+            {
+                score++;
+            }
+
+            string beverageAnswer = Beverage();
+            if (beverageAnswer == "coffee" || beverageAnswer == "whiskey")
+            {
+                score++;
+            }
+
+            //results
+            Console.WriteLine($"You got {score} total points!");
             Console.ReadLine();
             
         }
@@ -77,51 +101,52 @@ namespace Lab01AboutMeQuiz
             bool answered = false;
             if (answer == "")
             {
-                Console.WriteLine("Wanna play some time!?");
-                answered = true;
+                Console.WriteLine("The freest of free's and you passed it up. For shame");
             }
             else
             {
-                Console.WriteLine("The freest of free's and you passed it up. For shame");
+                Console.WriteLine("Wanna play some time!?");
+                answered = true;
             }
             return answered;
         }
 
         //question 4
-        static string Tricky()
+        static bool Tricky()
         {
             Console.WriteLine("Is the answer to this question A) c, B) a, C) d, or D) b?");
             string answer = Console.ReadLine();
             answer = answer.ToLower();
+            bool answered = false;
 
             if (answer == "a")
             {
+                answered = true;
                 Console.WriteLine("I C what you did there.");
-                return answer;
             }
             else if (answer == "b")
             {
+                answered = true;
                 Console.WriteLine("A for effort.");
-                return answer;
 
             }
             else if (answer == "c")
             {
+                answered = true;
                 Console.WriteLine("You like to live Dangerously.");
-                return answer;
 
             }
             else if (answer == "d")
             {
+                answered = true;
                 Console.WriteLine("Seriously!? Not this time Buddy.");
-                return answer;
 
             }
             else
             {
                 Console.WriteLine("Party pooper. No cake for you.");
-                return answer;
             }
+                return answered;
 
         }
 

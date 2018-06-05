@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz.csproj",
+      "projectUniqueName": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab01-About-Me-Quiz\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz.csproj",
       "projectName": "Lab01AboutMeQuiz",
-      "projectPath": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz.csproj",
+      "projectPath": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab01-About-Me-Quiz\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz\\obj\\",
+      "outputPath": "C:\\Users\\Max\\codefellows\\401 ASP.NET C#\\Lab01-About-Me-Quiz\\Lab01AboutMeQuiz\\Lab01AboutMeQuiz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
