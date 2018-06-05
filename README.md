@@ -6,4 +6,4 @@ To play this quiz you must download the code and execute in Visual Studio or som
 
 If it all works out, you should get a console that looks like this:
 
-![alt text](Lab01-About-Me-Quiz/Lab01AboutMeQuiz/VisualProgramRunning.png) 
+![alt text](https://github.com/MinMaxed/Lab01-About-Me-Quiz/blob/lab01_branch/Lab01AboutMeQuiz/VisualProgramRunning.png) 
